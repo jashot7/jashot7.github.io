@@ -2,7 +2,7 @@
   "name": "jhdc",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://jashot7.github.io/JasonHotellingDotCom",
+  "homepage": "https://jashot7.github.io",
   "dependencies": {
     "axios": "^0.18.0",
     "eslint": "^5.1.0",
