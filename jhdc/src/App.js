@@ -11,10 +11,10 @@ class App extends Component {
           <h1 className="App-title">Jason Hotelling</h1>
         </header>
         <p className="App-intro">
-          <div><p><i>Updated 8/7/2018 3:52pm</i></p></div>
-          <div><a href="/IdentityPOC/">IdentityPOC</a></div>
-          <div><a href="/OBStats/">OBStats</a></div>
-          <div><a href="/OBTicker/">OBTicker</a></div>
+          <div><p><i>Updated 8/7/2018 6:15pm</i></p></div>
+          <div><a href="https://www.jasonhotelling.com/IdentityPOC/">IdentityPOC</a></div>
+          <div><a href="https://www.jasonhotelling.com/OBStats/">OBStats</a></div>
+          <div><a href="https://www.jasonhotelling.com/OBTicker/">OBTicker</a></div>
         </p>
       </div>
     );
